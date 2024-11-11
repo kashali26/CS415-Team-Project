@@ -1,0 +1,47 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/MainMenu_Level.umap",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/BP_MainMenuGameMode.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/optionsbutton.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/MainMenu.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/1730334462828-34723.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/playbutton.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/backbutton.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/WBP_MainMenu.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/WBP_GameModeScreen.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/loading.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/WBP_LoadingScreen.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/Enum_GraphicalSettings.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/back.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/game_logo.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/gamemode.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/high.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/limit_fps.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/line.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/low.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/mainmenu__1_.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/medium.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/multiplayer.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/solo.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/FirstPerson/MainMenu/UI/BP_SaveGraphicalSettings.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/MainMenu/MainMenu_Level.umap",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/MainMenu/UI/WBP_GameModeScreen.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/MainMenu/UI/1730334462828-34723.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/MainMenu/UI/backbutton.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/MainMenu/BP_MainMenuGameMode.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/MainMenu/UI/loading.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/MainMenu/UI/MainMenu.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/MainMenu/UI/optionsbutton.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/MainMenu/UI/playbutton.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/MainMenu/UI/WBP_LoadingScreen.uasset",
+				"C:/Users/Kasha/OneDrive/Desktop/CS415/CS415_Test/Content/MainMenu/UI/WBP_MainMenu.uasset"
+			]
+		}
+	]
+}
